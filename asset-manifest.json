@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ShortLink-React-Js/static/css/main.814fbc69.chunk.css",
+    "main.js": "/ShortLink-React-Js/static/js/main.c012de62.chunk.js",
+    "main.js.map": "/ShortLink-React-Js/static/js/main.c012de62.chunk.js.map",
+    "runtime-main.js": "/ShortLink-React-Js/static/js/runtime-main.d932f95e.js",
+    "runtime-main.js.map": "/ShortLink-React-Js/static/js/runtime-main.d932f95e.js.map",
+    "static/js/2.dfed6e81.chunk.js": "/ShortLink-React-Js/static/js/2.dfed6e81.chunk.js",
+    "static/js/2.dfed6e81.chunk.js.map": "/ShortLink-React-Js/static/js/2.dfed6e81.chunk.js.map",
+    "static/js/3.c880ec4f.chunk.js": "/ShortLink-React-Js/static/js/3.c880ec4f.chunk.js",
+    "static/js/3.c880ec4f.chunk.js.map": "/ShortLink-React-Js/static/js/3.c880ec4f.chunk.js.map",
+    "index.html": "/ShortLink-React-Js/index.html",
+    "static/css/main.814fbc69.chunk.css.map": "/ShortLink-React-Js/static/css/main.814fbc69.chunk.css.map",
+    "static/js/2.dfed6e81.chunk.js.LICENSE.txt": "/ShortLink-React-Js/static/js/2.dfed6e81.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/ShortLink-React-Js/static/media/icon-twitter.1d5c6d5e.svg",
+    "static/media/info.scss": "/ShortLink-React-Js/static/media/illustration-working.c9b5ef54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d932f95e.js",
+    "static/js/2.dfed6e81.chunk.js",
+    "static/css/main.814fbc69.chunk.css",
+    "static/js/main.c012de62.chunk.js"
+  ]
+}
