@@ -1,0 +1,85 @@
+.footer {
+  background-color: #232027;
+  padding: 100px 80px;
+  .container {
+    width: 80%;
+    margin: 20px auto;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .title {
+    display: flex;
+    justify-content: space-between;
+  }
+  .logo a {
+    font-family: "Poppins", sans-serif;
+    color: #fff;
+    font-weight: 500;
+    font-size: 30px;
+    font-weight: 700;
+  }
+  .foot {
+    display: flex;
+    flex-direction: column;
+  }
+  .first__span {
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    margin-bottom: 20px;
+  }
+  .foot a {
+    color: #fff;
+    line-height: 22px;
+    transition: 0.4s;
+  }
+  .foot a:hover {
+    color: hsl(180, 66%, 49%);
+    transition: 0.4s;
+  }
+  .icons {
+    display: flex;
+  }
+  .icon1 {
+    background: url(../images/icon-facebook.svg) no-repeat;
+    color: #fff;
+    width: 30px;
+    margin: 0 10px;
+  }
+  .icon2 {
+    background: url(../images/icon-twitter.svg) no-repeat;
+    color: #fff;
+    width: 30px;
+    margin: 0 10px;
+  }
+  .icon3 {
+    background: url(../images/icon-pinterest.svg) no-repeat;
+    color: #fff;
+    width: 30px;
+    margin: 0 10px;
+  }
+  .icon4 {
+    background: url(../images/icon-instagram.svg) no-repeat;
+    width: 30px;
+    margin: 0 10px;
+  }
+  .icons a:hover {
+    fill: blue;
+  }
+}
+@media screen and (max-width: 375px){
+  .footer{
+    padding: 80px 80px;
+    .title{
+      flex-direction: column;
+      text-align: center;
+      line-height: 50px;
+    }
+    .icons{
+      margin-top: 40px;
+    }
+    .icons a{
+      padding: 12px;
+    }
+  }
+}
